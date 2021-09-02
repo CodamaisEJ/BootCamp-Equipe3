@@ -18,7 +18,7 @@
     --color-box-base: #FFFFFF;
     --color-box-footer: #FAFAFC;
     --color-small-info: #C1BCCC;
-    font-size: 60%; /* controle das medidas rem */
+    font-size: 60%;
 }
 
 *{
@@ -39,7 +39,10 @@ body {
 }
 
 body, input, button, textarea {
-    font: 500 1.6rem Poppins;
+    /* font: 500 1.6rem Poppins; */
+    font-weight: 500;
+    font-family: Poppins;
+    font-size: 1.6rem;
     color: var(--color-text-base);
 }
 
