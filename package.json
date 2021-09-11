@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/CodamaisEJ/BootCamp-Equipe3#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
